@@ -22,7 +22,7 @@ _LOGGER = logging.getLogger(__name__)
 
 REQUIREMENTS = ['requests', 'beautifulsoup4']
 
-COMPONENT_REPO = 'https://github.com/aalavender/OilPrice/'
+COMPONENT_REPO = 'https://github.com/yjllsym/OilPrice/'
 SCAN_INTERVAL = datetime.timedelta(hours=8)
 ICON = 'mdi:gas-station'
 
